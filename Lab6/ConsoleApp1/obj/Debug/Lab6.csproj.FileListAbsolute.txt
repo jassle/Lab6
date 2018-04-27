@@ -1,0 +1,7 @@
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jason Leonard\Documents\Labs\Lab6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
